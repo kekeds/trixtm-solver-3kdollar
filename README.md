@@ -1,0 +1,7 @@
+FEATURES:
+ [+] AUTO FLAGS
+ [+] DETECTED
+ [+] ASS CODE
+ [+] BUGGY
+ 
+💀💀💀💀
